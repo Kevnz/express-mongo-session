@@ -1,6 +1,6 @@
 {
   "name": "express-mongo-session",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MongoDB session store for express",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Kevin Isom <kevin.isom@gmail.com>",
   "license": "The Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kevnz/express-mongo-session"
+  },
   "dependencies": {
     "express-session": "^1.11.1",
     "mongo-start": "^1.0.0"
