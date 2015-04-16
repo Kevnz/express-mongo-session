@@ -12,6 +12,14 @@
     "type": "git",
     "url": "https://github.com/Kevnz/express-mongo-session"
   },
+  "keywords": [
+    "express",
+    "session",
+    "mongodb",
+    "mongo",
+    "express-session",
+    "mongojs"
+  ],
   "dependencies": {
     "express-session": "^1.11.1",
     "mongo-start": "^1.0.0"
