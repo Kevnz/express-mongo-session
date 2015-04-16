@@ -1,0 +1,15 @@
+{
+  "name": "express-mongo-session",
+  "version": "1.0.0",
+  "description": "MongoDB session store for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Isom <kevin.isom@gmail.com>",
+  "license": "The Unlicense",
+  "dependencies": {
+    "express-session": "^1.11.1",
+    "mongo-start": "^1.0.0"
+  }
+}
